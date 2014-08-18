@@ -1,0 +1,19 @@
+{
+  "name": "liquore",
+  "description": "require js files relatively in node-webkit projects",
+  "version": "0.1.0",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/iamale/liquore.git"
+  },
+  "bugs": {
+    "url": "https://github.com/iamale/liquore/issues"
+  },
+  "author": {
+    "name": "Ale",
+    "email": "ale@incrowd.ws",
+    "url": "http://incrowd.ws/"
+  }
+}
